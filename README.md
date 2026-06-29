@@ -2,7 +2,7 @@
 
 ### 📄 Project Status: Dataset Benchmark & Research Submission
 ### 🔗 GitHub Repository: 
-### 📝 Related Publication: BanglaShakNet (1).pdf
+
 
 ---
 
@@ -79,12 +79,9 @@ The project structure is organized with clear folders for each vegetable categor
 
 This work was conducted by researchers from the Department of Computer Science & Engineering, Southeast University, Dhaka 1208, Bangladesh.
 
-### Authors
-* Md. Mijanur Rahman
+### Author
 * **Rikha Akther**
-* Shahed Hossen Raihan
-* Nusrat Jahan Ananna
-* Syed Salman Rumon
+
 
 ### Corresponding Author Emails
 * Rikha Akther: `2022100000093@seu.edu.bd`
