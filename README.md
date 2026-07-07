@@ -83,9 +83,5 @@ This work was conducted by researchers from the Department of Computer Science &
 * **Rikha Akther**
 
 
-### Corresponding Author Emails
-* Rikha Akther: `2022100000093@seu.edu.bd`
-* Shahed Hossen Raihan: `2023000000080@seu.edu.bd`
-
 ### Keywords
 `BanglaShakNet, Leafy Vegetable Classification, Shak Dataset, Image Classification, Agricultural AI`
